@@ -2,7 +2,7 @@
 
 1. Create new Virtual Environment
 
-``bash
+```bash
 conda create -p env python=3.9 -y
 ```
 
